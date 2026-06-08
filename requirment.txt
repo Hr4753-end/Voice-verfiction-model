@@ -1,0 +1,10 @@
+speechbrain
+torchaudio
+torch
+librosa
+sounddevice
+scipy
+numpy
+scikit-learn
+fastapi
+uvicorn
